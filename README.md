@@ -93,11 +93,11 @@ MOV CL,AL;
 MOV AL,00H;
 HLT;
 ```
-## Output  
+## Output:
 ![div](./division.png)
 ## Result :
 Thus,an ALP program is successfully executed for the fundamental arithmetic and logical operations.
- 
+
 
 
 
